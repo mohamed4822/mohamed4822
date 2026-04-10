@@ -110,6 +110,9 @@ I design and develop complete mobile experiences, from UI/UX in Figma to fully f
   <a href="mailto:mohamedabdalmawjoudd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedabdalmawjoudd@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Gmail%20Web-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <hr/>
